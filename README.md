@@ -13,7 +13,7 @@
 
   Wildvine is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/wildvine/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
